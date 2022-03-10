@@ -11,7 +11,7 @@
 ```
 git init
 git add .
-git commit "initial commit"
+git commit -m "initial commit"
 ```
 
 4. Create a new repo on Github
